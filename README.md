@@ -9,4 +9,4 @@ This project is a Netflix Clone, but adapted to be a joke with the term "Full St
 
 <br/>
 
-<img src="//assets/Screenshot.png" alt="FStackFlix home">
+<img src="https://github.com/Davichagas12/FTT-WEB-LP3/blob/main/assets/Screenshot.png" alt="FStackFlix home">
